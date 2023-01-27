@@ -1,0 +1,1357 @@
+In 25,041876s transaction ID#1 entered the model
+In 25,041876s transaction ID#1 occupied the device number 1
+In 30,106207s transaction ID#2 entered the model
+In 30,106207s transaction ID#2 occupied the device number 2
+In 52,622253s transaction ID#3 entered the model
+In 52,622253s transaction ID#3 entered the queue number 1
+In 52,728359s transaction ID#2 released the device number 2
+In 52,728359s transaction ID#2 released the model
+In 61,105965s transaction ID#1 released the device number 1
+In 61,105965s transaction ID#1 released the model
+In 61,105965s transaction ID#3 occupied the device number 1
+In 63,709171s transaction ID#4 entered the model
+In 63,709171s transaction ID#4 occupied the device number 2
+In 82,925903s transaction ID#5 entered the model
+In 82,925903s transaction ID#5 entered the queue number 1
+In 89,304573s transaction ID#3 released the device number 1
+In 89,304573s transaction ID#3 released the model
+In 89,304573s transaction ID#5 occupied the device number 1
+In 93,278938s transaction ID#4 released the device number 2
+In 93,278938s transaction ID#4 released the model
+In 101,451462s transaction ID#6 entered the model
+In 101,451462s transaction ID#6 occupied the device number 2
+In 112,781586s transaction ID#7 entered the model
+In 112,781586s transaction ID#7 entered the queue number 1
+In 117,095985s transaction ID#8 entered the model
+In 117,095985s transaction ID#8 entered the queue number 2
+In 119,944565s transaction ID#5 released the device number 1
+In 119,944565s transaction ID#5 released the model
+In 119,944565s transaction ID#7 occupied the device number 1
+In 126,574142s transaction ID#6 released the device number 2
+In 126,574142s transaction ID#6 released the model
+In 126,574142s transaction ID#8 occupied the device number 2
+In 131,700134s transaction ID#9 entered the model
+In 131,700134s transaction ID#9 entered the queue number 1
+In 146,725769s transaction ID#8 released the device number 2
+In 146,725769s transaction ID#8 released the model
+In 149,643188s transaction ID#7 released the device number 1
+In 149,643188s transaction ID#7 released the model
+In 149,643188s transaction ID#9 occupied the device number 1
+In 151,094742s transaction ID#10 entered the model
+In 151,094742s transaction ID#10 occupied the device number 2
+In 165,694153s transaction ID#9 released the device number 1
+In 165,694153s transaction ID#9 released the model
+In 174,698746s transaction ID#11 entered the model
+In 174,698746s transaction ID#11 occupied the device number 1
+In 179,175964s transaction ID#10 released the device number 2
+In 179,175964s transaction ID#10 released the model
+In 192,161636s transaction ID#11 released the device number 1
+In 192,161636s transaction ID#11 released the model
+In 193,054382s transaction ID#12 entered the model
+In 193,054382s transaction ID#12 occupied the device number 1
+In 196,970154s transaction ID#13 entered the model
+In 196,970154s transaction ID#13 occupied the device number 2
+In 204,044205s transaction ID#14 entered the model
+In 204,044205s transaction ID#14 entered the queue number 1
+In 210,752121s transaction ID#15 entered the model
+In 210,752121s transaction ID#15 entered the queue number 2
+In 210,886978s transaction ID#12 released the device number 1
+In 210,886978s transaction ID#12 released the model
+In 210,886978s transaction ID#14 occupied the device number 1
+In 218,330048s transaction ID#13 released the device number 2
+In 218,330048s transaction ID#13 released the model
+In 218,330048s transaction ID#15 occupied the device number 2
+In 230,467804s transaction ID#16 entered the model
+In 230,467804s transaction ID#16 entered the queue number 1
+In 238,108261s transaction ID#14 released the device number 1
+In 238,108261s transaction ID#14 released the model
+In 238,108261s transaction ID#16 occupied the device number 1
+In 241,907150s transaction ID#17 entered the model
+In 241,907150s transaction ID#17 entered the queue number 1
+In 248,609146s transaction ID#15 released the device number 2
+In 248,609146s transaction ID#15 released the model
+In 257,108337s transaction ID#16 released the device number 1
+In 257,108337s transaction ID#16 released the model
+In 257,108337s transaction ID#17 occupied the device number 1
+In 265,623596s transaction ID#18 entered the model
+In 265,623596s transaction ID#18 occupied the device number 2
+In 275,018494s transaction ID#19 entered the model
+In 275,018494s transaction ID#19 entered the queue number 1
+In 276,057678s transaction ID#17 released the device number 1
+In 276,057678s transaction ID#17 released the model
+In 276,057678s transaction ID#19 occupied the device number 1
+In 289,807831s transaction ID#18 released the device number 2
+In 289,807831s transaction ID#18 released the model
+In 294,071198s transaction ID#19 released the device number 1
+In 294,071198s transaction ID#19 released the model
+In 297,388489s transaction ID#20 entered the model
+In 297,388489s transaction ID#20 occupied the device number 1
+In 308,549438s transaction ID#21 entered the model
+In 308,549438s transaction ID#21 occupied the device number 2
+In 330,218781s transaction ID#22 entered the model
+In 330,218781s transaction ID#22 entered the queue number 1
+In 332,996643s transaction ID#20 released the device number 1
+In 332,996643s transaction ID#20 released the model
+In 332,996643s transaction ID#22 occupied the device number 1
+In 336,906616s transaction ID#21 released the device number 2
+In 336,906616s transaction ID#21 released the model
+In 353,336853s transaction ID#23 entered the model
+In 353,336853s transaction ID#23 occupied the device number 2
+In 362,143646s transaction ID#22 released the device number 1
+In 362,143646s transaction ID#22 released the model
+In 373,426453s transaction ID#24 entered the model
+In 373,426453s transaction ID#24 occupied the device number 1
+In 377,829407s transaction ID#23 released the device number 2
+In 377,829407s transaction ID#23 released the model
+In 394,346283s transaction ID#25 entered the model
+In 394,346283s transaction ID#25 occupied the device number 2
+In 398,555695s transaction ID#24 released the device number 1
+In 398,555695s transaction ID#24 released the model
+In 419,163025s transaction ID#26 entered the model
+In 419,163025s transaction ID#26 occupied the device number 1
+In 419,669373s transaction ID#27 entered the model
+In 419,669373s transaction ID#27 entered the queue number 1
+In 423,050873s transaction ID#25 released the device number 2
+In 423,050873s transaction ID#25 released the model
+In 432,304749s transaction ID#28 entered the model
+In 432,304749s transaction ID#28 occupied the device number 2
+In 443,934418s transaction ID#26 released the device number 1
+In 443,934418s transaction ID#26 released the model
+In 443,934418s transaction ID#27 occupied the device number 1
+In 451,774078s transaction ID#29 entered the model
+In 451,774078s transaction ID#29 entered the queue number 1
+In 459,144714s transaction ID#28 released the device number 2
+In 459,144714s transaction ID#28 released the model
+In 459,484344s transaction ID#30 entered the model
+In 459,484344s transaction ID#30 occupied the device number 2
+In 471,321289s transaction ID#27 released the device number 1
+In 471,321289s transaction ID#27 released the model
+In 471,321289s transaction ID#29 occupied the device number 1
+In 482,396149s transaction ID#30 released the device number 2
+In 482,396149s transaction ID#30 released the model
+In 485,447266s transaction ID#31 entered the model
+In 485,447266s transaction ID#31 occupied the device number 2
+In 488,073578s transaction ID#32 entered the model
+In 488,073578s transaction ID#32 entered the queue number 1
+In 496,489349s transaction ID#29 released the device number 1
+In 496,489349s transaction ID#29 released the model
+In 496,489349s transaction ID#32 occupied the device number 1
+In 505,549927s transaction ID#31 released the device number 2
+In 505,549927s transaction ID#31 released the model
+In 512,588806s transaction ID#33 entered the model
+In 512,588806s transaction ID#33 occupied the device number 2
+In 512,853943s transaction ID#34 entered the model
+In 512,853943s transaction ID#34 entered the queue number 1
+In 527,385803s transaction ID#35 entered the model
+In 527,385803s transaction ID#35 entered the queue number 2
+In 533,193787s transaction ID#32 released the device number 1
+In 533,193787s transaction ID#32 released the model
+In 533,193787s transaction ID#34 occupied the device number 1
+In 536,844666s transaction ID#33 released the device number 2
+In 536,844666s transaction ID#33 released the model
+In 536,844666s transaction ID#35 occupied the device number 2
+In 548,655640s transaction ID#36 entered the model
+In 548,655640s transaction ID#36 entered the queue number 1
+In 551,665527s transaction ID#34 released the device number 1
+In 551,665527s transaction ID#34 released the model
+In 551,665527s transaction ID#36 occupied the device number 1
+In 561,772217s transaction ID#35 released the device number 2
+In 561,772217s transaction ID#35 released the model
+In 571,601318s transaction ID#37 entered the model
+In 571,601318s transaction ID#37 occupied the device number 2
+In 579,957336s transaction ID#36 released the device number 1
+In 579,957336s transaction ID#36 released the model
+In 595,723267s transaction ID#38 entered the model
+In 595,723267s transaction ID#38 occupied the device number 1
+In 596,647949s transaction ID#39 entered the model
+In 596,647949s transaction ID#39 entered the queue number 1
+In 600,919495s transaction ID#37 released the device number 2
+In 600,919495s transaction ID#37 released the model
+In 617,672607s transaction ID#40 entered the model
+In 617,672607s transaction ID#40 occupied the device number 2
+In 627,511719s transaction ID#38 released the device number 1
+In 627,511719s transaction ID#38 released the model
+In 627,511719s transaction ID#39 occupied the device number 1
+In 640,898254s transaction ID#41 entered the model
+In 640,898254s transaction ID#41 entered the queue number 1
+In 642,705017s transaction ID#42 entered the model
+In 642,705017s transaction ID#42 entered the queue number 2
+In 643,723816s transaction ID#40 released the device number 2
+In 643,723816s transaction ID#40 released the model
+In 643,723816s transaction ID#42 occupied the device number 2
+In 648,717163s transaction ID#39 released the device number 1
+In 648,717163s transaction ID#39 released the model
+In 648,717163s transaction ID#41 occupied the device number 1
+In 652,770752s transaction ID#43 entered the model
+In 652,770752s transaction ID#43 entered the queue number 1
+In 661,989563s transaction ID#44 entered the model
+In 661,989563s transaction ID#44 entered the queue number 2
+In 664,669250s transaction ID#42 released the device number 2
+In 664,669250s transaction ID#42 released the model
+In 664,669250s transaction ID#44 occupied the device number 2
+In 665,300537s transaction ID#45 entered the model
+In 665,300537s transaction ID#45 entered the queue number 2
+In 679,213623s transaction ID#41 released the device number 1
+In 679,213623s transaction ID#41 released the model
+In 679,213623s transaction ID#43 occupied the device number 1
+In 685,902954s transaction ID#44 released the device number 2
+In 685,902954s transaction ID#44 released the model
+In 685,902954s transaction ID#45 occupied the device number 2
+In 686,323303s transaction ID#46 entered the model
+In 686,323303s transaction ID#46 entered the queue number 1
+In 699,680420s transaction ID#47 entered the model
+In 699,680420s transaction ID#47 entered the queue number 2
+In 711,028809s transaction ID#43 released the device number 1
+In 711,028809s transaction ID#43 released the model
+In 711,028809s transaction ID#46 occupied the device number 1
+In 711,355713s transaction ID#45 released the device number 2
+In 711,355713s transaction ID#45 released the model
+In 711,355713s transaction ID#47 occupied the device number 2
+In 711,489563s transaction ID#48 entered the model
+In 711,489563s transaction ID#48 entered the queue number 1
+In 723,018616s transaction ID#49 entered the model
+In 723,018616s transaction ID#49 entered the queue number 2
+In 735,279724s transaction ID#46 released the device number 1
+In 735,279724s transaction ID#46 released the model
+In 735,279724s transaction ID#48 occupied the device number 1
+In 741,614563s transaction ID#47 released the device number 2
+In 741,614563s transaction ID#47 released the model
+In 741,614563s transaction ID#49 occupied the device number 2
+In 746,162842s transaction ID#50 entered the model
+In 746,162842s transaction ID#50 entered the queue number 1
+In 749,085205s transaction ID#51 entered the model
+In 749,085205s transaction ID#51 entered the queue number 2
+In 765,803650s transaction ID#48 released the device number 1
+In 765,803650s transaction ID#48 released the model
+In 765,803650s transaction ID#50 occupied the device number 1
+In 766,150452s transaction ID#49 released the device number 2
+In 766,150452s transaction ID#49 released the model
+In 766,150452s transaction ID#51 occupied the device number 2
+In 772,080627s transaction ID#52 entered the model
+In 772,080627s transaction ID#52 entered the queue number 1
+In 782,937317s transaction ID#53 entered the model
+In 782,937317s transaction ID#53 entered the queue number 2
+In 787,442200s transaction ID#50 released the device number 1
+In 787,442200s transaction ID#50 released the model
+In 787,442200s transaction ID#52 occupied the device number 1
+In 795,686523s transaction ID#51 released the device number 2
+In 795,686523s transaction ID#51 released the model
+In 795,686523s transaction ID#53 occupied the device number 2
+In 796,087463s transaction ID#54 entered the model
+In 796,087463s transaction ID#54 entered the queue number 1
+In 805,540833s transaction ID#52 released the device number 1
+In 805,540833s transaction ID#52 released the model
+In 805,540833s transaction ID#54 occupied the device number 1
+In 809,940735s transaction ID#55 entered the model
+In 809,940735s transaction ID#55 entered the queue number 1
+In 818,643066s transaction ID#53 released the device number 2
+In 818,643066s transaction ID#53 released the model
+In 828,912537s transaction ID#54 released the device number 1
+In 828,912537s transaction ID#54 released the model
+In 828,912537s transaction ID#55 occupied the device number 1
+In 832,618530s transaction ID#56 entered the model
+In 832,618530s transaction ID#56 occupied the device number 2
+In 837,775757s transaction ID#57 entered the model
+In 837,775757s transaction ID#57 entered the queue number 1
+In 846,347473s transaction ID#58 entered the model
+In 846,347473s transaction ID#58 entered the queue number 2
+In 848,532715s transaction ID#55 released the device number 1
+In 848,532715s transaction ID#55 released the model
+In 848,532715s transaction ID#57 occupied the device number 1
+In 861,978210s transaction ID#59 entered the model
+In 861,978210s transaction ID#59 entered the queue number 1
+In 862,627136s transaction ID#56 released the device number 2
+In 862,627136s transaction ID#56 released the model
+In 862,627136s transaction ID#58 occupied the device number 2
+In 865,997986s transaction ID#60 entered the model
+In 865,997986s transaction ID#60 entered the queue number 2
+In 870,736023s transaction ID#57 released the device number 1
+In 870,736023s transaction ID#57 released the model
+In 870,736023s transaction ID#59 occupied the device number 1
+In 885,678162s transaction ID#61 entered the model
+In 885,678162s transaction ID#61 entered the queue number 1
+In 887,319031s transaction ID#58 released the device number 2
+In 887,319031s transaction ID#58 released the model
+In 887,319031s transaction ID#60 occupied the device number 2
+In 891,023682s transaction ID#59 released the device number 1
+In 891,023682s transaction ID#59 released the model
+In 891,023682s transaction ID#61 occupied the device number 1
+In 894,848694s transaction ID#62 entered the model
+In 894,848694s transaction ID#62 entered the queue number 1
+In 903,094482s transaction ID#63 entered the model
+In 903,094482s transaction ID#63 entered the queue number 2
+In 916,479614s transaction ID#64 entered the model
+In 916,479614s transaction ID#64 entered the queue number 1
+In 917,252563s transaction ID#60 released the device number 2
+In 917,252563s transaction ID#60 released the model
+In 917,252563s transaction ID#63 occupied the device number 2
+In 923,267334s transaction ID#61 released the device number 1
+In 923,267334s transaction ID#61 released the model
+In 923,267334s transaction ID#62 occupied the device number 1
+In 928,868774s transaction ID#65 entered the model
+In 928,868774s transaction ID#65 entered the queue number 2
+In 937,095215s transaction ID#66 entered the model
+In 937,095215s transaction ID#66 entered the queue number 1
+In 942,097900s transaction ID#63 released the device number 2
+In 942,097900s transaction ID#63 released the model
+In 942,097900s transaction ID#65 occupied the device number 2
+In 948,766663s transaction ID#62 released the device number 1
+In 948,766663s transaction ID#62 released the model
+In 948,766663s transaction ID#64 occupied the device number 1
+In 961,876221s transaction ID#67 entered the model
+In 961,876221s transaction ID#67 entered the queue number 2
+In 962,554321s transaction ID#68 entered the model
+In 962,554321s transaction ID#68 entered the queue number 1
+In 966,824341s transaction ID#65 released the device number 2
+In 966,824341s transaction ID#65 released the model
+In 966,824341s transaction ID#67 occupied the device number 2
+In 972,526672s transaction ID#64 released the device number 1
+In 972,526672s transaction ID#64 released the model
+In 972,526672s transaction ID#66 occupied the device number 1
+In 981,407410s transaction ID#69 entered the model
+In 981,407410s transaction ID#69 entered the queue number 2
+In 984,867432s transaction ID#70 entered the model
+In 984,867432s transaction ID#70 entered the queue number 1
+In 987,149841s transaction ID#67 released the device number 2
+In 987,149841s transaction ID#67 released the model
+In 987,149841s transaction ID#69 occupied the device number 2
+In 995,902283s transaction ID#71 entered the model
+In 995,902283s transaction ID#71 entered the queue number 2
+In 1007,314087s transaction ID#66 released the device number 1
+In 1007,314087s transaction ID#66 released the model
+In 1007,314087s transaction ID#68 occupied the device number 1
+In 1010,898254s transaction ID#69 released the device number 2
+In 1010,898254s transaction ID#69 released the model
+In 1010,898254s transaction ID#71 occupied the device number 2
+In 1012,227844s transaction ID#72 entered the model
+In 1012,227844s transaction ID#72 entered the queue number 2
+In 1021,747803s transaction ID#73 entered the model
+In 1021,747803s transaction ID#73 entered the queue number 1
+In 1031,172974s transaction ID#68 released the device number 1
+In 1031,172974s transaction ID#68 released the model
+In 1031,172974s transaction ID#70 occupied the device number 1
+In 1033,004028s transaction ID#71 released the device number 2
+In 1033,004028s transaction ID#71 released the model
+In 1033,004028s transaction ID#72 occupied the device number 2
+In 1039,427979s transaction ID#74 entered the model
+In 1039,427979s transaction ID#74 entered the queue number 2
+In 1051,478027s transaction ID#75 entered the model
+In 1051,478027s transaction ID#75 entered the queue number 1
+In 1053,737793s transaction ID#76 entered the model
+In 1053,737793s transaction ID#76 entered the queue number 2
+In 1054,068359s transaction ID#72 released the device number 2
+In 1054,068359s transaction ID#72 released the model
+In 1054,068359s transaction ID#74 occupied the device number 2
+In 1054,565186s transaction ID#77 entered the model
+In 1054,565186s transaction ID#77 entered the queue number 2
+In 1057,826050s transaction ID#70 released the device number 1
+In 1057,826050s transaction ID#70 released the model
+In 1057,826050s transaction ID#73 occupied the device number 1
+In 1064,218628s transaction ID#78 entered the model
+In 1064,218628s transaction ID#78 entered the queue number 1
+In 1079,138550s transaction ID#79 entered the model
+In 1079,138550s transaction ID#79 entered the queue number 1
+In 1079,740112s transaction ID#74 released the device number 2
+In 1079,740112s transaction ID#74 released the model
+In 1079,740112s transaction ID#76 occupied the device number 2
+In 1081,419189s transaction ID#80 entered the model
+In 1081,419189s transaction ID#80 entered the queue number 2
+In 1081,872925s transaction ID#73 released the device number 1
+In 1081,872925s transaction ID#73 released the model
+In 1081,872925s transaction ID#75 occupied the device number 1
+In 1091,374390s transaction ID#81 entered the model
+In 1091,374390s transaction ID#81 entered the queue number 1
+In 1103,000122s transaction ID#82 entered the model
+In 1103,000122s transaction ID#82 entered the queue number 2
+In 1106,418457s transaction ID#76 released the device number 2
+In 1106,418457s transaction ID#76 released the model
+In 1106,418457s transaction ID#77 occupied the device number 2
+In 1116,128296s transaction ID#75 released the device number 1
+In 1116,128296s transaction ID#75 released the model
+In 1116,128296s transaction ID#78 occupied the device number 1
+In 1125,408447s transaction ID#83 entered the model
+In 1125,408447s transaction ID#83 entered the queue number 1
+In 1128,433228s transaction ID#77 released the device number 2
+In 1128,433228s transaction ID#77 released the model
+In 1128,433228s transaction ID#80 occupied the device number 2
+In 1135,082642s transaction ID#84 entered the model
+In 1135,082642s transaction ID#84 entered the queue number 2
+In 1136,239624s transaction ID#78 released the device number 1
+In 1136,239624s transaction ID#78 released the model
+In 1136,239624s transaction ID#79 occupied the device number 1
+In 1144,316528s transaction ID#85 entered the model
+In 1144,316528s transaction ID#85 entered the queue number 1
+In 1151,139526s transaction ID#86 entered the model
+In 1151,139526s transaction ID#86 entered the queue number 2
+In 1156,865967s transaction ID#80 released the device number 2
+In 1156,865967s transaction ID#80 released the model
+In 1156,865967s transaction ID#82 occupied the device number 2
+In 1162,624390s transaction ID#79 released the device number 1
+In 1162,624390s transaction ID#79 released the model
+In 1162,624390s transaction ID#81 occupied the device number 1
+In 1168,523071s transaction ID#87 entered the model
+In 1168,523071s transaction ID#87 entered the queue number 1
+In 1180,232544s transaction ID#82 released the device number 2
+In 1180,232544s transaction ID#82 released the model
+In 1180,232544s transaction ID#84 occupied the device number 2
+In 1184,261353s transaction ID#88 entered the model
+In 1184,261353s transaction ID#88 entered the queue number 2
+In 1186,101440s transaction ID#81 released the device number 1
+In 1186,101440s transaction ID#81 released the model
+In 1186,101440s transaction ID#83 occupied the device number 1
+In 1201,225830s transaction ID#89 entered the model
+In 1201,225830s transaction ID#89 entered the queue number 1
+In 1210,012085s transaction ID#84 released the device number 2
+In 1210,012085s transaction ID#84 released the model
+In 1210,012085s transaction ID#86 occupied the device number 2
+In 1216,107056s transaction ID#83 released the device number 1
+In 1216,107056s transaction ID#83 released the model
+In 1216,107056s transaction ID#85 occupied the device number 1
+In 1224,619507s transaction ID#90 entered the model
+In 1224,619507s transaction ID#90 entered the queue number 2
+In 1227,048340s transaction ID#91 entered the model
+In 1227,048340s transaction ID#91 entered the queue number 1
+In 1234,358643s transaction ID#92 entered the model
+In 1234,358643s transaction ID#92 entered the queue number 2
+In 1236,000122s transaction ID#85 released the device number 1
+In 1236,000122s transaction ID#85 released the model
+In 1236,000122s transaction ID#87 occupied the device number 1
+In 1239,339111s transaction ID#86 released the device number 2
+In 1239,339111s transaction ID#86 released the model
+In 1239,339111s transaction ID#88 occupied the device number 2
+In 1253,674561s transaction ID#93 entered the model
+In 1253,674561s transaction ID#93 entered the queue number 1
+In 1253,693604s transaction ID#94 entered the model
+In 1253,693604s transaction ID#94 entered the queue number 2
+In 1253,785400s transaction ID#87 released the device number 1
+In 1253,785400s transaction ID#87 released the model
+In 1253,785400s transaction ID#89 occupied the device number 1
+In 1264,810181s transaction ID#95 entered the model
+In 1264,810181s transaction ID#95 entered the queue number 1
+In 1271,019409s transaction ID#88 released the device number 2
+In 1271,019409s transaction ID#88 released the model
+In 1271,019409s transaction ID#90 occupied the device number 2
+In 1273,806030s transaction ID#89 released the device number 1
+In 1273,806030s transaction ID#89 released the model
+In 1273,806030s transaction ID#91 occupied the device number 1
+In 1277,091431s transaction ID#96 entered the model
+In 1277,091431s transaction ID#96 entered the queue number 1
+In 1291,680054s transaction ID#97 entered the model
+In 1291,680054s transaction ID#97 entered the queue number 2
+In 1296,001343s transaction ID#90 released the device number 2
+In 1296,001343s transaction ID#90 released the model
+In 1296,001343s transaction ID#92 occupied the device number 2
+In 1297,632446s transaction ID#91 released the device number 1
+In 1297,632446s transaction ID#91 released the model
+In 1297,632446s transaction ID#93 occupied the device number 1
+In 1313,207275s transaction ID#98 entered the model
+In 1313,207275s transaction ID#98 entered the queue number 1
+In 1322,531860s transaction ID#92 released the device number 2
+In 1322,531860s transaction ID#92 released the model
+In 1322,531860s transaction ID#94 occupied the device number 2
+In 1324,608276s transaction ID#93 released the device number 1
+In 1324,608276s transaction ID#93 released the model
+In 1324,608276s transaction ID#95 occupied the device number 1
+In 1329,982544s transaction ID#99 entered the model
+In 1329,982544s transaction ID#99 entered the queue number 2
+In 1335,780396s transaction ID#100 entered the model
+In 1335,780396s transaction ID#100 entered the queue number 1
+In 1337,542969s transaction ID#101 entered the model
+In 1337,542969s transaction ID#101 entered the queue number 2
+In 1350,170044s transaction ID#94 released the device number 2
+In 1350,170044s transaction ID#94 released the model
+In 1350,170044s transaction ID#97 occupied the device number 2
+In 1352,590210s transaction ID#95 released the device number 1
+In 1352,590210s transaction ID#95 released the model
+In 1352,590210s transaction ID#96 occupied the device number 1
+In 1359,773560s transaction ID#102 entered the model
+In 1359,773560s transaction ID#102 entered the queue number 1
+In 1376,339111s transaction ID#97 released the device number 2
+In 1376,339111s transaction ID#97 released the model
+In 1376,339111s transaction ID#99 occupied the device number 2
+In 1383,010254s transaction ID#103 entered the model
+In 1383,010254s transaction ID#103 entered the queue number 2
+In 1386,815796s transaction ID#96 released the device number 1
+In 1386,815796s transaction ID#96 released the model
+In 1386,815796s transaction ID#98 occupied the device number 1
+In 1404,548462s transaction ID#104 entered the model
+In 1404,548462s transaction ID#104 entered the queue number 1
+In 1407,176636s transaction ID#99 released the device number 2
+In 1407,176636s transaction ID#99 released the model
+In 1407,176636s transaction ID#101 occupied the device number 2
+In 1422,026123s transaction ID#98 released the device number 1
+In 1422,026123s transaction ID#98 released the model
+In 1422,026123s transaction ID#100 occupied the device number 1
+In 1426,464966s transaction ID#105 entered the model
+In 1426,464966s transaction ID#105 entered the queue number 2
+In 1438,247925s transaction ID#101 released the device number 2
+In 1438,247925s transaction ID#101 released the model
+In 1438,247925s transaction ID#103 occupied the device number 2
+In 1441,902832s transaction ID#106 entered the model
+In 1441,902832s transaction ID#106 entered the queue number 2
+In 1443,404175s transaction ID#100 released the device number 1
+In 1443,404175s transaction ID#100 released the model
+In 1443,404175s transaction ID#102 occupied the device number 1
+In 1451,604370s transaction ID#107 entered the model
+In 1451,604370s transaction ID#107 entered the queue number 1
+In 1459,942871s transaction ID#103 released the device number 2
+In 1459,942871s transaction ID#103 released the model
+In 1459,942871s transaction ID#105 occupied the device number 2
+In 1464,453857s transaction ID#102 released the device number 1
+In 1464,453857s transaction ID#102 released the model
+In 1464,453857s transaction ID#104 occupied the device number 1
+In 1469,957275s transaction ID#108 entered the model
+In 1469,957275s transaction ID#108 entered the queue number 1
+In 1480,022949s transaction ID#105 released the device number 2
+In 1480,022949s transaction ID#105 released the model
+In 1480,022949s transaction ID#106 occupied the device number 2
+In 1490,106689s transaction ID#104 released the device number 1
+In 1490,106689s transaction ID#104 released the model
+In 1490,106689s transaction ID#107 occupied the device number 1
+In 1492,508667s transaction ID#109 entered the model
+In 1492,508667s transaction ID#109 entered the queue number 2
+In 1495,239380s transaction ID#110 entered the model
+In 1495,239380s transaction ID#110 entered the queue number 1
+In 1503,451538s transaction ID#106 released the device number 2
+In 1503,451538s transaction ID#106 released the model
+In 1503,451538s transaction ID#109 occupied the device number 2
+In 1520,846558s transaction ID#111 entered the model
+In 1520,846558s transaction ID#111 entered the queue number 2
+In 1525,209961s transaction ID#107 released the device number 1
+In 1525,209961s transaction ID#107 released the model
+In 1525,209961s transaction ID#108 occupied the device number 1
+In 1533,576416s transaction ID#109 released the device number 2
+In 1533,576416s transaction ID#109 released the model
+In 1533,576416s transaction ID#111 occupied the device number 2
+In 1533,893188s transaction ID#112 entered the model
+In 1533,893188s transaction ID#112 entered the queue number 2
+In 1535,436890s transaction ID#113 entered the model
+In 1535,436890s transaction ID#113 entered the queue number 1
+In 1549,564087s transaction ID#114 entered the model
+In 1549,564087s transaction ID#114 entered the queue number 2
+In 1551,977661s transaction ID#108 released the device number 1
+In 1551,977661s transaction ID#108 released the model
+In 1551,977661s transaction ID#110 occupied the device number 1
+In 1560,560913s transaction ID#111 released the device number 2
+In 1560,560913s transaction ID#111 released the model
+In 1560,560913s transaction ID#112 occupied the device number 2
+In 1568,281494s transaction ID#115 entered the model
+In 1568,281494s transaction ID#115 entered the queue number 1
+In 1575,333374s transaction ID#110 released the device number 1
+In 1575,333374s transaction ID#110 released the model
+In 1575,333374s transaction ID#113 occupied the device number 1
+In 1582,567993s transaction ID#116 entered the model
+In 1582,567993s transaction ID#116 entered the queue number 1
+In 1585,607910s transaction ID#112 released the device number 2
+In 1585,607910s transaction ID#112 released the model
+In 1585,607910s transaction ID#114 occupied the device number 2
+In 1603,178101s transaction ID#117 entered the model
+In 1603,178101s transaction ID#117 entered the queue number 2
+In 1603,540161s transaction ID#113 released the device number 1
+In 1603,540161s transaction ID#113 released the model
+In 1603,540161s transaction ID#115 occupied the device number 1
+In 1604,911499s transaction ID#118 entered the model
+In 1604,911499s transaction ID#118 entered the queue number 1
+In 1612,723633s transaction ID#114 released the device number 2
+In 1612,723633s transaction ID#114 released the model
+In 1612,723633s transaction ID#117 occupied the device number 2
+In 1618,147827s transaction ID#119 entered the model
+In 1618,147827s transaction ID#119 entered the queue number 2
+In 1626,479492s transaction ID#120 entered the model
+In 1626,479492s transaction ID#120 entered the queue number 2
+In 1627,565552s transaction ID#121 entered the model
+In 1627,565552s transaction ID#121 entered the queue number 1
+In 1633,166870s transaction ID#117 released the device number 2
+In 1633,166870s transaction ID#117 released the model
+In 1633,166870s transaction ID#119 occupied the device number 2
+In 1636,611694s transaction ID#115 released the device number 1
+In 1636,611694s transaction ID#115 released the model
+In 1636,611694s transaction ID#116 occupied the device number 1
+In 1650,425049s transaction ID#122 entered the model
+In 1650,425049s transaction ID#122 entered the queue number 2
+In 1655,708496s transaction ID#116 released the device number 1
+In 1655,708496s transaction ID#116 released the model
+In 1655,708496s transaction ID#118 occupied the device number 1
+In 1656,526978s transaction ID#123 entered the model
+In 1656,526978s transaction ID#123 entered the queue number 1
+In 1660,992188s transaction ID#119 released the device number 2
+In 1660,992188s transaction ID#119 released the model
+In 1660,992188s transaction ID#120 occupied the device number 2
+In 1680,667480s transaction ID#124 entered the model
+In 1680,667480s transaction ID#124 entered the queue number 2
+In 1688,333862s transaction ID#120 released the device number 2
+In 1688,333862s transaction ID#120 released the model
+In 1688,333862s transaction ID#122 occupied the device number 2
+In 1692,124390s transaction ID#118 released the device number 1
+In 1692,124390s transaction ID#118 released the model
+In 1692,124390s transaction ID#121 occupied the device number 1
+In 1700,455811s transaction ID#125 entered the model
+In 1700,455811s transaction ID#125 entered the queue number 1
+In 1708,677734s transaction ID#126 entered the model
+In 1708,677734s transaction ID#126 entered the queue number 2
+In 1716,012085s transaction ID#122 released the device number 2
+In 1716,012085s transaction ID#122 released the model
+In 1716,012085s transaction ID#124 occupied the device number 2
+In 1720,458984s transaction ID#127 entered the model
+In 1720,458984s transaction ID#127 entered the queue number 2
+In 1724,090576s transaction ID#128 entered the model
+In 1724,090576s transaction ID#128 entered the queue number 1
+In 1728,772339s transaction ID#121 released the device number 1
+In 1728,772339s transaction ID#121 released the model
+In 1728,772339s transaction ID#123 occupied the device number 1
+In 1736,252563s transaction ID#129 entered the model
+In 1736,252563s transaction ID#129 entered the queue number 1
+In 1742,923096s transaction ID#124 released the device number 2
+In 1742,923096s transaction ID#124 released the model
+In 1742,923096s transaction ID#126 occupied the device number 2
+In 1749,299805s transaction ID#123 released the device number 1
+In 1749,299805s transaction ID#123 released the model
+In 1749,299805s transaction ID#125 occupied the device number 1
+In 1761,202271s transaction ID#130 entered the model
+In 1761,202271s transaction ID#130 entered the queue number 2
+In 1768,051880s transaction ID#125 released the device number 1
+In 1768,051880s transaction ID#125 released the model
+In 1768,051880s transaction ID#128 occupied the device number 1
+In 1768,917358s transaction ID#126 released the device number 2
+In 1768,917358s transaction ID#126 released the model
+In 1768,917358s transaction ID#127 occupied the device number 2
+In 1775,519409s transaction ID#131 entered the model
+In 1775,519409s transaction ID#131 entered the queue number 1
+In 1785,601318s transaction ID#132 entered the model
+In 1785,601318s transaction ID#132 entered the queue number 2
+In 1788,131836s transaction ID#133 entered the model
+In 1788,131836s transaction ID#133 entered the queue number 1
+In 1791,488892s transaction ID#127 released the device number 2
+In 1791,488892s transaction ID#127 released the model
+In 1791,488892s transaction ID#130 occupied the device number 2
+In 1796,625244s transaction ID#128 released the device number 1
+In 1796,625244s transaction ID#128 released the model
+In 1796,625244s transaction ID#129 occupied the device number 1
+In 1800,906982s transaction ID#134 entered the model
+In 1800,906982s transaction ID#134 entered the queue number 2
+In 1801,915405s transaction ID#135 entered the model
+In 1801,915405s transaction ID#135 entered the queue number 1
+In 1813,638550s transaction ID#130 released the device number 2
+In 1813,638550s transaction ID#130 released the model
+In 1813,638550s transaction ID#132 occupied the device number 2
+In 1815,856567s transaction ID#129 released the device number 1
+In 1815,856567s transaction ID#129 released the model
+In 1815,856567s transaction ID#131 occupied the device number 1
+In 1820,303467s transaction ID#136 entered the model
+In 1820,303467s transaction ID#136 entered the queue number 2
+In 1823,480835s transaction ID#137 entered the model
+In 1823,480835s transaction ID#137 entered the queue number 1
+In 1823,585205s transaction ID#138 entered the model
+In 1823,585205s transaction ID#138 entered the queue number 2
+In 1826,426147s transaction ID#139 entered the model
+In 1826,426147s transaction ID#139 entered the queue number 1
+In 1832,749634s transaction ID#140 entered the model
+In 1832,749634s transaction ID#140 entered the queue number 2
+In 1837,842651s transaction ID#131 released the device number 1
+In 1837,842651s transaction ID#131 released the model
+In 1837,842651s transaction ID#133 occupied the device number 1
+In 1839,198120s transaction ID#132 released the device number 2
+In 1839,198120s transaction ID#132 released the model
+In 1839,198120s transaction ID#134 occupied the device number 2
+In 1840,312866s transaction ID#141 entered the model
+In 1840,312866s transaction ID#141 entered the queue number 1
+In 1847,623169s transaction ID#142 entered the model
+In 1847,623169s transaction ID#142 entered the queue number 2
+In 1852,730957s transaction ID#143 entered the model
+In 1852,730957s transaction ID#143 entered the queue number 1
+In 1854,459717s transaction ID#144 entered the model
+In 1854,459717s transaction ID#144 entered the queue number 2
+In 1858,336792s transaction ID#145 entered the model
+In 1858,336792s transaction ID#145 entered the queue number 1
+In 1870,475586s transaction ID#134 released the device number 2
+In 1870,475586s transaction ID#134 released the model
+In 1870,475586s transaction ID#136 occupied the device number 2
+In 1873,714355s transaction ID#133 released the device number 1
+In 1873,714355s transaction ID#133 released the model
+In 1873,714355s transaction ID#135 occupied the device number 1
+In 1879,188477s transaction ID#146 entered the model
+In 1879,188477s transaction ID#146 entered the queue number 2
+In 1880,258179s transaction ID#147 entered the model
+In 1880,258179s transaction ID#147 entered the queue number 1
+In 1884,558350s transaction ID#148 entered the model
+In 1884,558350s transaction ID#148 entered the queue number 2
+In 1898,619751s transaction ID#136 released the device number 2
+In 1898,619751s transaction ID#136 released the model
+In 1898,619751s transaction ID#138 occupied the device number 2
+In 1902,883179s transaction ID#135 released the device number 1
+In 1902,883179s transaction ID#135 released the model
+In 1902,883179s transaction ID#137 occupied the device number 1
+In 1906,656250s transaction ID#149 entered the model
+In 1906,656250s transaction ID#149 entered the queue number 1
+In 1918,987427s transaction ID#150 entered the model
+In 1918,987427s transaction ID#150 entered the queue number 2
+In 1924,376465s transaction ID#138 released the device number 2
+In 1924,376465s transaction ID#138 released the model
+In 1924,376465s transaction ID#140 occupied the device number 2
+In 1928,185791s transaction ID#137 released the device number 1
+In 1928,185791s transaction ID#137 released the model
+In 1928,185791s transaction ID#139 occupied the device number 1
+In 1938,665283s transaction ID#151 entered the model
+In 1938,665283s transaction ID#151 entered the queue number 1
+In 1949,034424s transaction ID#140 released the device number 2
+In 1949,034424s transaction ID#140 released the model
+In 1949,034424s transaction ID#142 occupied the device number 2
+In 1951,561768s transaction ID#139 released the device number 1
+In 1951,561768s transaction ID#139 released the model
+In 1951,561768s transaction ID#141 occupied the device number 1
+In 1954,034912s transaction ID#152 entered the model
+In 1954,034912s transaction ID#152 entered the queue number 2
+In 1966,759277s transaction ID#153 entered the model
+In 1966,759277s transaction ID#153 entered the queue number 1
+In 1971,297607s transaction ID#142 released the device number 2
+In 1971,297607s transaction ID#142 released the model
+In 1971,297607s transaction ID#144 occupied the device number 2
+In 1976,662354s transaction ID#154 entered the model
+In 1976,662354s transaction ID#154 entered the queue number 2
+In 1986,590942s transaction ID#141 released the device number 1
+In 1986,590942s transaction ID#141 released the model
+In 1986,590942s transaction ID#143 occupied the device number 1
+In 1998,299438s transaction ID#155 entered the model
+In 1998,299438s transaction ID#155 entered the queue number 1
+In 1999,290283s transaction ID#156 entered the model
+In 1999,290283s transaction ID#156 entered the queue number 2
+In 2000,971680s transaction ID#144 released the device number 2
+In 2000,971680s transaction ID#144 released the model
+In 2000,971680s transaction ID#146 occupied the device number 2
+In 2002,685669s transaction ID#157 entered the model
+In 2002,685669s transaction ID#157 entered the queue number 2
+In 2006,617188s transaction ID#143 released the device number 1
+In 2006,617188s transaction ID#143 released the model
+In 2006,617188s transaction ID#145 occupied the device number 1
+In 2017,639038s transaction ID#158 entered the model
+In 2017,639038s transaction ID#158 entered the queue number 1
+In 2030,120728s transaction ID#146 released the device number 2
+In 2030,120728s transaction ID#146 released the model
+In 2030,120728s transaction ID#148 occupied the device number 2
+In 2033,345093s transaction ID#145 released the device number 1
+In 2033,345093s transaction ID#145 released the model
+In 2033,345093s transaction ID#147 occupied the device number 1
+In 2033,883667s transaction ID#159 entered the model
+In 2033,883667s transaction ID#159 entered the queue number 1
+In 2052,208008s transaction ID#148 released the device number 2
+In 2052,208008s transaction ID#148 released the model
+In 2052,208008s transaction ID#150 occupied the device number 2
+In 2054,982910s transaction ID#147 released the device number 1
+In 2054,982910s transaction ID#147 released the model
+In 2054,982910s transaction ID#149 occupied the device number 1
+In 2058,449951s transaction ID#160 entered the model
+In 2058,449951s transaction ID#160 entered the queue number 2
+In 2070,392334s transaction ID#149 released the device number 1
+In 2070,392334s transaction ID#149 released the model
+In 2070,392334s transaction ID#151 occupied the device number 1
+In 2075,260742s transaction ID#150 released the device number 2
+In 2075,260742s transaction ID#150 released the model
+In 2075,260742s transaction ID#152 occupied the device number 2
+In 2079,789795s transaction ID#161 entered the model
+In 2079,789795s transaction ID#161 entered the queue number 1
+In 2086,279541s transaction ID#162 entered the model
+In 2086,279541s transaction ID#162 entered the queue number 2
+In 2087,827148s transaction ID#151 released the device number 1
+In 2087,827148s transaction ID#151 released the model
+In 2087,827148s transaction ID#153 occupied the device number 1
+In 2106,121826s transaction ID#152 released the device number 2
+In 2106,121826s transaction ID#152 released the model
+In 2106,121826s transaction ID#154 occupied the device number 2
+In 2111,750000s transaction ID#163 entered the model
+In 2111,750000s transaction ID#163 entered the queue number 1
+In 2114,128174s transaction ID#153 released the device number 1
+In 2114,128174s transaction ID#153 released the model
+In 2114,128174s transaction ID#155 occupied the device number 1
+In 2116,960449s transaction ID#164 entered the model
+In 2116,960449s transaction ID#164 entered the queue number 1
+In 2123,381592s transaction ID#165 entered the model
+In 2123,381592s transaction ID#165 entered the queue number 2
+In 2126,505859s transaction ID#166 entered the model
+In 2126,505859s transaction ID#166 entered the queue number 1
+In 2131,375732s transaction ID#154 released the device number 2
+In 2131,375732s transaction ID#154 released the model
+In 2131,375732s transaction ID#156 occupied the device number 2
+In 2135,841064s transaction ID#155 released the device number 1
+In 2135,841064s transaction ID#155 released the model
+In 2135,841064s transaction ID#158 occupied the device number 1
+In 2142,526123s transaction ID#167 entered the model
+In 2142,526123s transaction ID#167 entered the queue number 2
+In 2154,184326s transaction ID#158 released the device number 1
+In 2154,184326s transaction ID#158 released the model
+In 2154,184326s transaction ID#159 occupied the device number 1
+In 2154,819580s transaction ID#168 entered the model
+In 2154,819580s transaction ID#168 entered the queue number 1
+In 2157,244141s transaction ID#169 entered the model
+In 2157,244141s transaction ID#169 entered the queue number 1
+In 2160,800781s transaction ID#156 released the device number 2
+In 2160,800781s transaction ID#156 released the model
+In 2160,800781s transaction ID#157 occupied the device number 2
+In 2173,949707s transaction ID#170 entered the model
+In 2173,949707s transaction ID#170 entered the queue number 2
+In 2176,077637s transaction ID#159 released the device number 1
+In 2176,077637s transaction ID#159 released the model
+In 2176,077637s transaction ID#161 occupied the device number 1
+In 2181,673096s transaction ID#157 released the device number 2
+In 2181,673096s transaction ID#157 released the model
+In 2181,673096s transaction ID#160 occupied the device number 2
+In 2184,659912s transaction ID#171 entered the model
+In 2184,659912s transaction ID#171 entered the queue number 2
+In 2193,760010s transaction ID#161 released the device number 1
+In 2193,760010s transaction ID#161 released the model
+In 2193,760010s transaction ID#163 occupied the device number 1
+In 2206,562012s transaction ID#172 entered the model
+In 2206,562012s transaction ID#172 entered the queue number 1
+In 2211,630127s transaction ID#160 released the device number 2
+In 2211,630127s transaction ID#160 released the model
+In 2211,630127s transaction ID#162 occupied the device number 2
+In 2216,347168s transaction ID#173 entered the model
+In 2216,347168s transaction ID#173 entered the queue number 2
+In 2222,800781s transaction ID#163 released the device number 1
+In 2222,800781s transaction ID#163 released the model
+In 2222,800781s transaction ID#164 occupied the device number 1
+In 2224,551270s transaction ID#174 entered the model
+In 2224,551270s transaction ID#174 entered the queue number 1
+In 2231,796143s transaction ID#162 released the device number 2
+In 2231,796143s transaction ID#162 released the model
+In 2231,796143s transaction ID#165 occupied the device number 2
+In 2231,829346s transaction ID#175 entered the model
+In 2231,829346s transaction ID#175 entered the queue number 2
+In 2235,784912s transaction ID#176 entered the model
+In 2235,784912s transaction ID#176 entered the queue number 1
+In 2239,340576s transaction ID#164 released the device number 1
+In 2239,340576s transaction ID#164 released the model
+In 2239,340576s transaction ID#166 occupied the device number 1
+In 2241,390625s transaction ID#177 entered the model
+In 2241,390625s transaction ID#177 entered the queue number 1
+In 2249,484863s transaction ID#178 entered the model
+In 2249,484863s transaction ID#178 entered the queue number 2
+In 2260,436035s transaction ID#165 released the device number 2
+In 2260,436035s transaction ID#165 released the model
+In 2260,436035s transaction ID#167 occupied the device number 2
+In 2272,680908s transaction ID#179 entered the model
+In 2272,680908s transaction ID#179 entered the queue number 2
+In 2274,975830s transaction ID#180 entered the model
+In 2274,975830s transaction ID#180 entered the queue number 1
+In 2276,142334s transaction ID#166 released the device number 1
+In 2276,142334s transaction ID#166 released the model
+In 2276,142334s transaction ID#168 occupied the device number 1
+In 2291,968018s transaction ID#167 released the device number 2
+In 2291,968018s transaction ID#167 released the model
+In 2291,968018s transaction ID#170 occupied the device number 2
+In 2293,582275s transaction ID#181 entered the model
+In 2293,582275s transaction ID#181 entered the queue number 2
+In 2302,137207s transaction ID#168 released the device number 1
+In 2302,137207s transaction ID#168 released the model
+In 2302,137207s transaction ID#169 occupied the device number 1
+In 2307,489746s transaction ID#182 entered the model
+In 2307,489746s transaction ID#182 entered the queue number 1
+In 2314,735352s transaction ID#170 released the device number 2
+In 2314,735352s transaction ID#170 released the model
+In 2314,735352s transaction ID#171 occupied the device number 2
+In 2323,605225s transaction ID#183 entered the model
+In 2323,605225s transaction ID#183 entered the queue number 2
+In 2332,453125s transaction ID#169 released the device number 1
+In 2332,453125s transaction ID#169 released the model
+In 2332,453125s transaction ID#172 occupied the device number 1
+In 2344,329834s transaction ID#184 entered the model
+In 2344,329834s transaction ID#184 entered the queue number 1
+In 2345,673340s transaction ID#171 released the device number 2
+In 2345,673340s transaction ID#171 released the model
+In 2345,673340s transaction ID#173 occupied the device number 2
+In 2354,944336s transaction ID#185 entered the model
+In 2354,944336s transaction ID#185 entered the queue number 2
+In 2358,573730s transaction ID#172 released the device number 1
+In 2358,573730s transaction ID#172 released the model
+In 2358,573730s transaction ID#174 occupied the device number 1
+In 2374,000000s transaction ID#173 released the device number 2
+In 2374,000000s transaction ID#173 released the model
+In 2374,000000s transaction ID#175 occupied the device number 2
+In 2377,933105s transaction ID#174 released the device number 1
+In 2377,933105s transaction ID#174 released the model
+In 2377,933105s transaction ID#176 occupied the device number 1
+In 2380,093506s transaction ID#186 entered the model
+In 2380,093506s transaction ID#186 entered the queue number 1
+In 2393,499268s transaction ID#176 released the device number 1
+In 2393,499268s transaction ID#176 released the model
+In 2393,499268s transaction ID#177 occupied the device number 1
+In 2395,472412s transaction ID#187 entered the model
+In 2395,472412s transaction ID#187 entered the queue number 1
+In 2401,072021s transaction ID#175 released the device number 2
+In 2401,072021s transaction ID#175 released the model
+In 2401,072021s transaction ID#178 occupied the device number 2
+In 2403,034912s transaction ID#188 entered the model
+In 2403,034912s transaction ID#188 entered the queue number 2
+In 2408,963623s transaction ID#177 released the device number 1
+In 2408,963623s transaction ID#177 released the model
+In 2408,963623s transaction ID#180 occupied the device number 1
+In 2415,644775s transaction ID#189 entered the model
+In 2415,644775s transaction ID#189 entered the queue number 1
+In 2420,240723s transaction ID#190 entered the model
+In 2420,240723s transaction ID#190 entered the queue number 1
+In 2428,438965s transaction ID#178 released the device number 2
+In 2428,438965s transaction ID#178 released the model
+In 2428,438965s transaction ID#179 occupied the device number 2
+In 2429,816650s transaction ID#180 released the device number 1
+In 2429,816650s transaction ID#180 released the model
+In 2429,816650s transaction ID#182 occupied the device number 1
+In 2435,698486s transaction ID#191 entered the model
+In 2435,698486s transaction ID#191 entered the queue number 2
+In 2452,039795s transaction ID#192 entered the model
+In 2452,039795s transaction ID#192 entered the queue number 1
+In 2452,546875s transaction ID#193 entered the model
+In 2452,546875s transaction ID#193 entered the queue number 2
+In 2453,266602s transaction ID#179 released the device number 2
+In 2453,266602s transaction ID#179 released the model
+In 2453,266602s transaction ID#181 occupied the device number 2
+In 2454,727295s transaction ID#182 released the device number 1
+In 2454,727295s transaction ID#182 released the model
+In 2454,727295s transaction ID#184 occupied the device number 1
+In 2476,490234s transaction ID#194 entered the model
+In 2476,490234s transaction ID#194 entered the queue number 1
+In 2482,227295s transaction ID#181 released the device number 2
+In 2482,227295s transaction ID#181 released the model
+In 2482,227295s transaction ID#183 occupied the device number 2
+In 2486,017578s transaction ID#184 released the device number 1
+In 2486,017578s transaction ID#184 released the model
+In 2486,017578s transaction ID#186 occupied the device number 1
+In 2486,396484s transaction ID#195 entered the model
+In 2486,396484s transaction ID#195 entered the queue number 2
+In 2504,885742s transaction ID#196 entered the model
+In 2504,885742s transaction ID#196 entered the queue number 1
+In 2510,891602s transaction ID#183 released the device number 2
+In 2510,891602s transaction ID#183 released the model
+In 2510,891602s transaction ID#185 occupied the device number 2
+In 2514,172119s transaction ID#197 entered the model
+In 2514,172119s transaction ID#197 entered the queue number 2
+In 2514,499756s transaction ID#186 released the device number 1
+In 2514,499756s transaction ID#186 released the model
+In 2514,499756s transaction ID#187 occupied the device number 1
+In 2531,461914s transaction ID#198 entered the model
+In 2531,461914s transaction ID#198 entered the queue number 1
+In 2531,583984s transaction ID#185 released the device number 2
+In 2531,583984s transaction ID#185 released the model
+In 2531,583984s transaction ID#188 occupied the device number 2
+In 2544,675293s transaction ID#187 released the device number 1
+In 2544,675293s transaction ID#187 released the model
+In 2544,675293s transaction ID#189 occupied the device number 1
+In 2555,068848s transaction ID#199 entered the model
+In 2555,068848s transaction ID#199 entered the queue number 2
+In 2558,775391s transaction ID#188 released the device number 2
+In 2558,775391s transaction ID#188 released the model
+In 2558,775391s transaction ID#191 occupied the device number 2
+In 2579,013184s transaction ID#200 entered the model
+In 2579,013184s transaction ID#200 entered the queue number 2
+In 2581,015869s transaction ID#189 released the device number 1
+In 2581,015869s transaction ID#189 released the model
+In 2581,015869s transaction ID#190 occupied the device number 1
+In 2585,297852s transaction ID#191 released the device number 2
+In 2585,297852s transaction ID#191 released the model
+In 2585,297852s transaction ID#193 occupied the device number 2
+In 2587,120117s transaction ID#201 entered the model
+In 2587,120117s transaction ID#201 entered the queue number 1
+In 2601,380615s transaction ID#202 entered the model
+In 2601,380615s transaction ID#202 entered the queue number 2
+In 2604,908691s transaction ID#190 released the device number 1
+In 2604,908691s transaction ID#190 released the model
+In 2604,908691s transaction ID#192 occupied the device number 1
+In 2609,172852s transaction ID#193 released the device number 2
+In 2609,172852s transaction ID#193 released the model
+In 2609,172852s transaction ID#195 occupied the device number 2
+In 2623,768066s transaction ID#192 released the device number 1
+In 2623,768066s transaction ID#192 released the model
+In 2623,768066s transaction ID#194 occupied the device number 1
+In 2624,292969s transaction ID#203 entered the model
+In 2624,292969s transaction ID#203 entered the queue number 1
+In 2637,000244s transaction ID#195 released the device number 2
+In 2637,000244s transaction ID#195 released the model
+In 2637,000244s transaction ID#197 occupied the device number 2
+In 2648,445068s transaction ID#204 entered the model
+In 2648,445068s transaction ID#204 entered the queue number 2
+In 2655,825928s transaction ID#205 entered the model
+In 2655,825928s transaction ID#205 entered the queue number 1
+In 2659,119385s transaction ID#194 released the device number 1
+In 2659,119385s transaction ID#194 released the model
+In 2659,119385s transaction ID#196 occupied the device number 1
+In 2667,980469s transaction ID#197 released the device number 2
+In 2667,980469s transaction ID#197 released the model
+In 2667,980469s transaction ID#199 occupied the device number 2
+In 2676,119141s transaction ID#196 released the device number 1
+In 2676,119141s transaction ID#196 released the model
+In 2676,119141s transaction ID#198 occupied the device number 1
+In 2678,171387s transaction ID#206 entered the model
+In 2678,171387s transaction ID#206 entered the queue number 1
+In 2678,838379s transaction ID#207 entered the model
+In 2678,838379s transaction ID#207 entered the queue number 2
+In 2679,777832s transaction ID#208 entered the model
+In 2679,777832s transaction ID#208 entered the queue number 1
+In 2688,965088s transaction ID#199 released the device number 2
+In 2688,965088s transaction ID#199 released the model
+In 2688,965088s transaction ID#200 occupied the device number 2
+In 2691,220947s transaction ID#209 entered the model
+In 2691,220947s transaction ID#209 entered the queue number 2
+In 2709,472412s transaction ID#198 released the device number 1
+In 2709,472412s transaction ID#198 released the model
+In 2709,472412s transaction ID#201 occupied the device number 1
+In 2712,242676s transaction ID#200 released the device number 2
+In 2712,242676s transaction ID#200 released the model
+In 2712,242676s transaction ID#202 occupied the device number 2
+In 2715,679199s transaction ID#210 entered the model
+In 2715,679199s transaction ID#210 entered the queue number 2
+In 2721,473389s transaction ID#211 entered the model
+In 2721,473389s transaction ID#211 entered the queue number 1
+In 2737,840576s transaction ID#201 released the device number 1
+In 2737,840576s transaction ID#201 released the model
+In 2737,840576s transaction ID#203 occupied the device number 1
+In 2742,889893s transaction ID#212 entered the model
+In 2742,889893s transaction ID#212 entered the queue number 1
+In 2743,696289s transaction ID#202 released the device number 2
+In 2743,696289s transaction ID#202 released the model
+In 2743,696289s transaction ID#204 occupied the device number 2
+In 2768,102051s transaction ID#204 released the device number 2
+In 2768,102051s transaction ID#204 released the model
+In 2768,102051s transaction ID#207 occupied the device number 2
+In 2768,159424s transaction ID#213 entered the model
+In 2768,159424s transaction ID#213 entered the queue number 2
+In 2773,181641s transaction ID#203 released the device number 1
+In 2773,181641s transaction ID#203 released the model
+In 2773,181641s transaction ID#205 occupied the device number 1
+In 2784,863525s transaction ID#214 entered the model
+In 2784,863525s transaction ID#214 entered the queue number 2
+In 2788,311768s transaction ID#205 released the device number 1
+In 2788,311768s transaction ID#205 released the model
+In 2788,311768s transaction ID#206 occupied the device number 1
+In 2790,783691s transaction ID#207 released the device number 2
+In 2790,783691s transaction ID#207 released the model
+In 2790,783691s transaction ID#209 occupied the device number 2
+In 2802,925049s transaction ID#215 entered the model
+In 2802,925049s transaction ID#215 entered the queue number 1
+In 2811,758301s transaction ID#216 entered the model
+In 2811,758301s transaction ID#216 entered the queue number 2
+In 2812,459961s transaction ID#206 released the device number 1
+In 2812,459961s transaction ID#206 released the model
+In 2812,459961s transaction ID#208 occupied the device number 1
+In 2820,052734s transaction ID#209 released the device number 2
+In 2820,052734s transaction ID#209 released the model
+In 2820,052734s transaction ID#210 occupied the device number 2
+In 2830,905762s transaction ID#217 entered the model
+In 2830,905762s transaction ID#217 entered the queue number 1
+In 2837,354492s transaction ID#208 released the device number 1
+In 2837,354492s transaction ID#208 released the model
+In 2837,354492s transaction ID#211 occupied the device number 1
+In 2849,752197s transaction ID#210 released the device number 2
+In 2849,752197s transaction ID#210 released the model
+In 2849,752197s transaction ID#213 occupied the device number 2
+In 2850,863281s transaction ID#218 entered the model
+In 2850,863281s transaction ID#218 entered the queue number 2
+In 2856,959229s transaction ID#211 released the device number 1
+In 2856,959229s transaction ID#211 released the model
+In 2856,959229s transaction ID#212 occupied the device number 1
+In 2863,981201s transaction ID#219 entered the model
+In 2863,981201s transaction ID#219 entered the queue number 1
+In 2865,050781s transaction ID#220 entered the model
+In 2865,050781s transaction ID#220 entered the queue number 1
+In 2877,110840s transaction ID#213 released the device number 2
+In 2877,110840s transaction ID#213 released the model
+In 2877,110840s transaction ID#214 occupied the device number 2
+In 2888,023438s transaction ID#212 released the device number 1
+In 2888,023438s transaction ID#212 released the model
+In 2888,023438s transaction ID#215 occupied the device number 1
+In 2890,638428s transaction ID#221 entered the model
+In 2890,638428s transaction ID#221 entered the queue number 2
+In 2901,480713s transaction ID#222 entered the model
+In 2901,480713s transaction ID#222 entered the queue number 1
+In 2907,379150s transaction ID#214 released the device number 2
+In 2907,379150s transaction ID#214 released the model
+In 2907,379150s transaction ID#216 occupied the device number 2
+In 2910,384277s transaction ID#215 released the device number 1
+In 2910,384277s transaction ID#215 released the model
+In 2910,384277s transaction ID#217 occupied the device number 1
+In 2925,364014s transaction ID#223 entered the model
+In 2925,364014s transaction ID#223 entered the queue number 2
+In 2928,824707s transaction ID#217 released the device number 1
+In 2928,824707s transaction ID#217 released the model
+In 2928,824707s transaction ID#219 occupied the device number 1
+In 2930,050049s transaction ID#216 released the device number 2
+In 2930,050049s transaction ID#216 released the model
+In 2930,050049s transaction ID#218 occupied the device number 2
+In 2943,296387s transaction ID#224 entered the model
+In 2943,296387s transaction ID#224 entered the queue number 1
+In 2949,215088s transaction ID#219 released the device number 1
+In 2949,215088s transaction ID#219 released the model
+In 2949,215088s transaction ID#220 occupied the device number 1
+In 2953,285156s transaction ID#218 released the device number 2
+In 2953,285156s transaction ID#218 released the model
+In 2953,285156s transaction ID#221 occupied the device number 2
+In 2962,144287s transaction ID#225 entered the model
+In 2962,144287s transaction ID#225 entered the queue number 2
+In 2964,873291s transaction ID#226 entered the model
+In 2964,873291s transaction ID#226 entered the queue number 1
+In 2968,436768s transaction ID#227 entered the model
+In 2968,436768s transaction ID#227 entered the queue number 2
+In 2975,106445s transaction ID#220 released the device number 1
+In 2975,106445s transaction ID#220 released the model
+In 2975,106445s transaction ID#222 occupied the device number 1
+In 2976,598877s transaction ID#221 released the device number 2
+In 2976,598877s transaction ID#221 released the model
+In 2976,598877s transaction ID#223 occupied the device number 2
+In 2990,537842s transaction ID#228 entered the model
+In 2990,537842s transaction ID#228 entered the queue number 1
+In 2993,766113s transaction ID#222 released the device number 1
+In 2993,766113s transaction ID#222 released the model
+In 2993,766113s transaction ID#224 occupied the device number 1
+In 3001,462646s transaction ID#229 entered the model
+In 3001,462646s transaction ID#229 entered the queue number 1
+In 3006,268555s transaction ID#223 released the device number 2
+In 3006,268555s transaction ID#223 released the model
+In 3006,268555s transaction ID#225 occupied the device number 2
+In 3007,112061s transaction ID#230 entered the model
+In 3007,112061s transaction ID#230 entered the queue number 2
+In 3009,883301s transaction ID#224 released the device number 1
+In 3009,883301s transaction ID#224 released the model
+In 3009,883301s transaction ID#226 occupied the device number 1
+In 3018,095947s transaction ID#231 entered the model
+In 3018,095947s transaction ID#231 entered the queue number 1
+In 3019,512695s transaction ID#232 entered the model
+In 3019,512695s transaction ID#232 entered the queue number 2
+In 3030,090332s transaction ID#233 entered the model
+In 3030,090332s transaction ID#233 entered the queue number 1
+In 3038,163330s transaction ID#225 released the device number 2
+In 3038,163330s transaction ID#225 released the model
+In 3038,163330s transaction ID#227 occupied the device number 2
+In 3040,854248s transaction ID#226 released the device number 1
+In 3040,854248s transaction ID#226 released the model
+In 3040,854248s transaction ID#228 occupied the device number 1
+In 3046,997070s transaction ID#234 entered the model
+In 3046,997070s transaction ID#234 entered the queue number 2
+In 3056,721191s transaction ID#235 entered the model
+In 3056,721191s transaction ID#235 entered the queue number 1
+In 3062,490967s transaction ID#227 released the device number 2
+In 3062,490967s transaction ID#227 released the model
+In 3062,490967s transaction ID#230 occupied the device number 2
+In 3068,279053s transaction ID#228 released the device number 1
+In 3068,279053s transaction ID#228 released the model
+In 3068,279053s transaction ID#229 occupied the device number 1
+In 3068,856201s transaction ID#236 entered the model
+In 3068,856201s transaction ID#236 entered the queue number 2
+In 3077,523926s transaction ID#237 entered the model
+In 3077,523926s transaction ID#237 entered the queue number 1
+In 3081,082275s transaction ID#238 entered the model
+In 3081,082275s transaction ID#238 entered the queue number 2
+In 3083,583984s transaction ID#230 released the device number 2
+In 3083,583984s transaction ID#230 released the model
+In 3083,583984s transaction ID#232 occupied the device number 2
+In 3088,797852s transaction ID#239 entered the model
+In 3088,797852s transaction ID#239 entered the queue number 2
+In 3098,036133s transaction ID#229 released the device number 1
+In 3098,036133s transaction ID#229 released the model
+In 3098,036133s transaction ID#231 occupied the device number 1
+In 3101,413086s transaction ID#240 entered the model
+In 3101,413086s transaction ID#240 entered the queue number 1
+In 3103,536377s transaction ID#241 entered the model
+In 3103,536377s transaction ID#241 entered the queue number 1
+In 3105,226563s transaction ID#232 released the device number 2
+In 3105,226563s transaction ID#232 released the model
+In 3105,226563s transaction ID#234 occupied the device number 2
+In 3114,316895s transaction ID#231 released the device number 1
+In 3114,316895s transaction ID#231 released the model
+In 3114,316895s transaction ID#233 occupied the device number 1
+In 3127,664063s transaction ID#242 entered the model
+In 3127,664063s transaction ID#242 entered the queue number 2
+In 3134,099121s transaction ID#234 released the device number 2
+In 3134,099121s transaction ID#234 released the model
+In 3134,099121s transaction ID#236 occupied the device number 2
+In 3136,453125s transaction ID#243 entered the model
+In 3136,453125s transaction ID#243 entered the queue number 2
+In 3137,247559s transaction ID#233 released the device number 1
+In 3137,247559s transaction ID#233 released the model
+In 3137,247559s transaction ID#235 occupied the device number 1
+In 3149,867920s transaction ID#244 entered the model
+In 3149,867920s transaction ID#244 entered the queue number 1
+In 3152,557373s transaction ID#235 released the device number 1
+In 3152,557373s transaction ID#235 released the model
+In 3152,557373s transaction ID#237 occupied the device number 1
+In 3158,222168s transaction ID#245 entered the model
+In 3158,222168s transaction ID#245 entered the queue number 1
+In 3161,812012s transaction ID#236 released the device number 2
+In 3161,812012s transaction ID#236 released the model
+In 3161,812012s transaction ID#238 occupied the device number 2
+In 3169,176025s transaction ID#237 released the device number 1
+In 3169,176025s transaction ID#237 released the model
+In 3169,176025s transaction ID#240 occupied the device number 1
+In 3172,009277s transaction ID#246 entered the model
+In 3172,009277s transaction ID#246 entered the queue number 1
+In 3177,684814s transaction ID#247 entered the model
+In 3177,684814s transaction ID#247 entered the queue number 2
+In 3183,670654s transaction ID#238 released the device number 2
+In 3183,670654s transaction ID#238 released the model
+In 3183,670654s transaction ID#239 occupied the device number 2
+In 3190,912354s transaction ID#248 entered the model
+In 3190,912354s transaction ID#248 entered the queue number 2
+In 3198,636230s transaction ID#240 released the device number 1
+In 3198,636230s transaction ID#240 released the model
+In 3198,636230s transaction ID#241 occupied the device number 1
+In 3214,616699s transaction ID#239 released the device number 2
+In 3214,616699s transaction ID#239 released the model
+In 3214,616699s transaction ID#242 occupied the device number 2
+In 3216,251465s transaction ID#241 released the device number 1
+In 3216,251465s transaction ID#241 released the model
+In 3216,251465s transaction ID#244 occupied the device number 1
+In 3216,445068s transaction ID#249 entered the model
+In 3216,445068s transaction ID#249 entered the queue number 1
+In 3221,192871s transaction ID#250 entered the model
+In 3221,192871s transaction ID#250 entered the queue number 1
+In 3231,455078s transaction ID#251 entered the model
+In 3231,455078s transaction ID#251 entered the queue number 2
+In 3238,131836s transaction ID#244 released the device number 1
+In 3238,131836s transaction ID#244 released the model
+In 3238,131836s transaction ID#245 occupied the device number 1
+In 3239,616699s transaction ID#242 released the device number 2
+In 3239,616699s transaction ID#242 released the model
+In 3239,616699s transaction ID#243 occupied the device number 2
+In 3249,701416s transaction ID#252 entered the model
+In 3249,701416s transaction ID#252 entered the queue number 1
+In 3256,657227s transaction ID#245 released the device number 1
+In 3256,657227s transaction ID#245 released the model
+In 3256,657227s transaction ID#246 occupied the device number 1
+In 3259,901123s transaction ID#253 entered the model
+In 3259,901123s transaction ID#253 entered the queue number 1
+In 3263,536377s transaction ID#243 released the device number 2
+In 3263,536377s transaction ID#243 released the model
+In 3263,536377s transaction ID#247 occupied the device number 2
+In 3276,341064s transaction ID#254 entered the model
+In 3276,341064s transaction ID#254 entered the queue number 2
+In 3279,765381s transaction ID#246 released the device number 1
+In 3279,765381s transaction ID#246 released the model
+In 3279,765381s transaction ID#249 occupied the device number 1
+In 3290,699951s transaction ID#247 released the device number 2
+In 3290,699951s transaction ID#247 released the model
+In 3290,699951s transaction ID#248 occupied the device number 2
+In 3293,634521s transaction ID#255 entered the model
+In 3293,634521s transaction ID#255 entered the queue number 2
+In 3300,122803s transaction ID#249 released the device number 1
+In 3300,122803s transaction ID#249 released the model
+In 3300,122803s transaction ID#250 occupied the device number 1
+In 3307,253174s transaction ID#256 entered the model
+In 3307,253174s transaction ID#256 entered the queue number 1
+In 3309,265381s transaction ID#257 entered the model
+In 3309,265381s transaction ID#257 entered the queue number 1
+In 3317,040039s transaction ID#248 released the device number 2
+In 3317,040039s transaction ID#248 released the model
+In 3317,040039s transaction ID#251 occupied the device number 2
+In 3319,424316s transaction ID#250 released the device number 1
+In 3319,424316s transaction ID#250 released the model
+In 3319,424316s transaction ID#252 occupied the device number 1
+In 3327,954346s transaction ID#258 entered the model
+In 3327,954346s transaction ID#258 entered the queue number 2
+In 3331,551270s transaction ID#259 entered the model
+In 3331,551270s transaction ID#259 entered the queue number 1
+In 3339,708740s transaction ID#251 released the device number 2
+In 3339,708740s transaction ID#251 released the model
+In 3339,708740s transaction ID#254 occupied the device number 2
+In 3342,928711s transaction ID#260 entered the model
+In 3342,928711s transaction ID#260 entered the queue number 2
+In 3346,631836s transaction ID#252 released the device number 1
+In 3346,631836s transaction ID#252 released the model
+In 3346,631836s transaction ID#253 occupied the device number 1
+In 3346,939209s transaction ID#261 entered the model
+In 3346,939209s transaction ID#261 entered the queue number 1
+In 3362,245361s transaction ID#262 entered the model
+In 3362,245361s transaction ID#262 entered the queue number 2
+In 3363,196533s transaction ID#254 released the device number 2
+In 3363,196533s transaction ID#254 released the model
+In 3363,196533s transaction ID#255 occupied the device number 2
+In 3372,746826s transaction ID#253 released the device number 1
+In 3372,746826s transaction ID#253 released the model
+In 3372,746826s transaction ID#256 occupied the device number 1
+In 3383,991943s transaction ID#263 entered the model
+In 3383,991943s transaction ID#263 entered the queue number 1
+In 3389,990723s transaction ID#256 released the device number 1
+In 3389,990723s transaction ID#256 released the model
+In 3389,990723s transaction ID#257 occupied the device number 1
+In 3392,019775s transaction ID#255 released the device number 2
+In 3392,019775s transaction ID#255 released the model
+In 3392,019775s transaction ID#258 occupied the device number 2
+In 3397,258301s transaction ID#264 entered the model
+In 3397,258301s transaction ID#264 entered the queue number 2
+In 3407,685547s transaction ID#265 entered the model
+In 3407,685547s transaction ID#265 entered the queue number 1
+In 3413,848389s transaction ID#258 released the device number 2
+In 3413,848389s transaction ID#258 released the model
+In 3413,848389s transaction ID#260 occupied the device number 2
+In 3417,224365s transaction ID#266 entered the model
+In 3417,224365s transaction ID#266 entered the queue number 2
+In 3424,640381s transaction ID#257 released the device number 1
+In 3424,640381s transaction ID#257 released the model
+In 3424,640381s transaction ID#259 occupied the device number 1
+In 3429,472168s transaction ID#267 entered the model
+In 3429,472168s transaction ID#267 entered the queue number 1
+In 3434,432617s transaction ID#260 released the device number 2
+In 3434,432617s transaction ID#260 released the model
+In 3434,432617s transaction ID#262 occupied the device number 2
+In 3445,263672s transaction ID#259 released the device number 1
+In 3445,263672s transaction ID#259 released the model
+In 3445,263672s transaction ID#261 occupied the device number 1
+In 3454,001953s transaction ID#268 entered the model
+In 3454,001953s transaction ID#268 entered the queue number 2
+In 3461,714355s transaction ID#262 released the device number 2
+In 3461,714355s transaction ID#262 released the model
+In 3461,714355s transaction ID#264 occupied the device number 2
+In 3468,194092s transaction ID#269 entered the model
+In 3468,194092s transaction ID#269 entered the queue number 2
+In 3469,165039s transaction ID#270 entered the model
+In 3469,165039s transaction ID#270 entered the queue number 1
+In 3470,423096s transaction ID#261 released the device number 1
+In 3470,423096s transaction ID#261 released the model
+In 3470,423096s transaction ID#263 occupied the device number 1
+In 3482,923584s transaction ID#271 entered the model
+In 3482,923584s transaction ID#271 entered the queue number 1
+In 3484,314697s transaction ID#272 entered the model
+In 3484,314697s transaction ID#272 entered the queue number 2
+In 3484,828613s transaction ID#264 released the device number 2
+In 3484,828613s transaction ID#264 released the model
+In 3484,828613s transaction ID#266 occupied the device number 2
+In 3485,568848s transaction ID#263 released the device number 1
+In 3485,568848s transaction ID#263 released the model
+In 3485,568848s transaction ID#265 occupied the device number 1
+In 3502,913574s transaction ID#265 released the device number 1
+In 3502,913574s transaction ID#265 released the model
+In 3502,913574s transaction ID#267 occupied the device number 1
+In 3505,796143s transaction ID#266 released the device number 2
+In 3505,796143s transaction ID#266 released the model
+In 3505,796143s transaction ID#268 occupied the device number 2
+In 3506,383545s transaction ID#273 entered the model
+In 3506,383545s transaction ID#273 entered the queue number 1
+In 3524,281982s transaction ID#267 released the device number 1
+In 3524,281982s transaction ID#267 released the model
+In 3524,281982s transaction ID#270 occupied the device number 1
+In 3526,201172s transaction ID#274 entered the model
+In 3526,201172s transaction ID#274 entered the queue number 1
+In 3527,301758s transaction ID#268 released the device number 2
+In 3527,301758s transaction ID#268 released the model
+In 3527,301758s transaction ID#269 occupied the device number 2
+In 3539,045898s transaction ID#275 entered the model
+In 3539,045898s transaction ID#275 entered the queue number 2
+In 3544,358643s transaction ID#270 released the device number 1
+In 3544,358643s transaction ID#270 released the model
+In 3544,358643s transaction ID#271 occupied the device number 1
+In 3548,827881s transaction ID#269 released the device number 2
+In 3548,827881s transaction ID#269 released the model
+In 3548,827881s transaction ID#272 occupied the device number 2
+In 3560,263428s transaction ID#276 entered the model
+In 3560,263428s transaction ID#276 entered the queue number 2
+In 3563,035400s transaction ID#271 released the device number 1
+In 3563,035400s transaction ID#271 released the model
+In 3563,035400s transaction ID#273 occupied the device number 1
+In 3580,403320s transaction ID#272 released the device number 2
+In 3580,403320s transaction ID#272 released the model
+In 3580,403320s transaction ID#275 occupied the device number 2
+In 3580,639648s transaction ID#277 entered the model
+In 3580,639648s transaction ID#277 entered the queue number 1
+In 3594,063965s transaction ID#278 entered the model
+In 3594,063965s transaction ID#278 entered the queue number 2
+In 3596,209229s transaction ID#273 released the device number 1
+In 3596,209229s transaction ID#273 released the model
+In 3596,209229s transaction ID#274 occupied the device number 1
+In 3603,911865s transaction ID#275 released the device number 2
+In 3603,911865s transaction ID#275 released the model
+In 3603,911865s transaction ID#276 occupied the device number 2
